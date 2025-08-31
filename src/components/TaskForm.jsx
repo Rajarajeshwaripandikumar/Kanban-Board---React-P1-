@@ -76,7 +76,7 @@ const TaskForm = () => {
         value={priority}
         onChange={(e) => setPriority(e.target.value)}
       >
-        <option>Urgent</option>
+        
         <option>High</option>
         <option>Medium</option>
         <option>Low</option>
