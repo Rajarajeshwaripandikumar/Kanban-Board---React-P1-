@@ -26,6 +26,21 @@ This app allows users to create, organize, and move tasks between columns like *
 - **localStorage** for persistence
 
 ---
-│── package.json
-│── tailwind.config.js
-│─
+
+## ⚙️ Installation & Setup
+Clone the repository and install dependencies:
+
+```bash
+# Clone the repo
+git clone https://github.com/Rajarajeshwaripandikumar/Kanban-Board---React-P1-.git
+
+# Navigate into the project
+cd Kanban-Board---React-P1-
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+
+
